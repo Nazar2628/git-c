@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edited edited in branch 1
+=======
+edited in branch 2
+>>>>>>> branch2

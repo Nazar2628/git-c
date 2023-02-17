@@ -3,3 +3,4 @@ edited edited in branch 1
 =======
 edited in branch 2
 >>>>>>> branch2
+merging with branch3
